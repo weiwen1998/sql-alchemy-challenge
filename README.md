@@ -1,6 +1,6 @@
 # sql-alchemy-challenge
 
-#The latest date is 23/08/2017
+#The latest date based on the data is 23/08/2017
 
 #The most active station would be "USC00519281" with a value of 2772.
 
